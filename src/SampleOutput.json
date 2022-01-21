@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 38,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Texas synagogue siege: Teens held in UK as Briton named as hostage-taker - BBC News",
+"description": "Briton Malik Faisal Akram died in the standoff with police after taking four hostages.",
+"url": "https://www.bbc.com/news/uk-60019251",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10089/production/_122737656_mediaitem122737655.jpg",
+"publishedAt": "2022-01-17T10:20:40Z",
+"content": "Media caption, Watch a briefing by an FBI agent after the stand-off in Colleyville, Texas\r\nTwo teenagers have been arrested in England as part of the investigation into a hostage-taking incident at a… [+5259 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "KABC-TV"
+},
+"author": "By DOUGLASS K. DANIEL Associated Press",
+"title": "Brigadier General Charles McGee, one of the last surviving Tuskegee Airmen, dies at 102 - KABC-TV",
+"description": "Brig. Gen. Charles McGee, one of the last surviving Tuskegee Airmen, died Sunday morning in his sleep, according to a family spokesman. He was 102.",
+"url": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
+"urlToImage": "https://cdn.abcotvs.com/dip/images/11476860_airman_obit.jpg?w=1600",
+"publishedAt": "2022-01-17T10:18:45Z",
+"content": "WASHINGTON -- Charles McGee, a Tuskegee Airman who flew 409 fighter combat missions over three wars and later helped to bring attention to the Black pilots who had battled racism at home to fight for… [+4872 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Brad Lendon, CNN",
+"title": "One of the US Navy's most powerful weapons makes a rare appearance in Guam - CNN",
+"description": "One of the most powerful weapons in the US Navy's arsenal made a rare port call in Guam over the weekend, sending a message to allies and foes amid increasing tensions in the Indo-Pacific, analysts said.",
+"url": "https://www.cnn.com/2022/01/16/asia/us-navy-ballistic-missile-submarine-guam-intl-hnk-mi/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220116190335-01-us-ballistic-missiel-submarine-guam-intl-hnk-ml-super-tease.jpg",
+"publishedAt": "2022-01-17T09:04:00Z",
+"content": "Hong Kong (CNN)One of the most powerful weapons in the US Navy's arsenal made a rare port call in Guam over the weekend, sending a message to allies and foes amid increasing tensions in the Indo-Paci… [+3647 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TMZ"
+},
+"author": "TMZ Staff",
+"title": "Jamie Lynn Spears Not Doing Book Tour - TMZ",
+"description": "Jamie Lynn Spears is not doing a book tour.",
+"url": "https://www.tmz.com/2022/01/17/jamie-lynn-spears-no-book-tour-things-i-should-have-said/",
+"urlToImage": "https://imagez.tmz.com/image/a3/16by9/2022/01/14/a392447aea2a46afbc6a7089fd9dfae7_xl.jpg",
+"publishedAt": "2022-01-17T09:00:00Z",
+"content": "Jamie Lynn Spears took a hard pass on doing a nationwide tour to promote her new book ... because she's not in it for the money ... so say sources connected to her.\r\nOur sources say Britney's little … [+1725 chars]"
+},
+{
+"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Emily Glazer, Margot Patrick",
+"title": "Credit Suisse Chairman to Leave After Breaking Covid Travel Rules - The Wall Street Journal",
+"description": "Board had investigated António Horta-Osório’s personal use of corporate aircraft and breach of quarantine rules",
+"url": "https://www.wsj.com/articles/credit-suisse-chairman-to-leave-bank-amid-board-probe-11642376538",
+"urlToImage": "https://images.wsj.net/im-468834/social",
+"publishedAt": "2022-01-17T08:37:00Z",
+"content": "Credit Suisse Group AG Chairman António Horta-Osório is leaving the global bank following a board investigation into his travel and personal conduct, according to people familiar with the bank.\r\nCred… [+332 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Helen Regan, CNN",
+"title": "A massive volcanic eruption and tsunami hit Tonga and the Pacific. Here's what we know - CNN",
+"description": "An underwater volcano near Tonga has erupted for the third time in four days, potentially threatening the ability of surveillance flights to assess the damage to the Pacific island nation following Saturday's massive eruption and tsunami.",
+"url": "https://www.cnn.com/2022/01/17/asia/tonga-volcanic-eruption-tsunami-explainer-intl-hnk/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220116193237-tonga-volcanic-eruption-explainer-super-tease.jpg",
+"publishedAt": "2022-01-17T07:43:00Z",
+"content": "(CNN)An underwater volcano near Tonga has erupted for the third time in four days, potentially threatening the ability of surveillance flights to assess the damage to the Pacific island nation follow… [+7255 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Laura He, CNN Business",
+"title": "China's economy expanded 8.1% in 2021, but growth is slowing - CNN",
+"description": "China's GDP grew at the slowest pace in one and half years in the fourth quarter, as a deepening property crisis, renewed Covid outbreaks, and the government's insistence on strict control measures added to concerns on an already slowing economy.",
+"url": "https://www.cnn.com/2022/01/16/economy/china-q4-gdp-2021-intl-hnk/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220116191226-china-q4-gdp-intl-hnk-super-tease.jpg",
+"publishedAt": "2022-01-17T07:41:00Z",
+"content": "Hong Kong (CNN Business)China's economy expanded 8.1% last year, far exceeding the government's own targets. But weakening growth in the closing months of 2021 suggests that trouble is still on the h… [+6962 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Abigail Ng",
+"title": "'Obscene inequality': Oxfam says taxing the world's richest could help save lives - CNBC",
+"description": "The wealth of the world's ten richest men doubled from $700 billion to $1.5 trillion during the pandemic, the global charity said in a press release on Monday.",
+"url": "https://www.cnbc.com/2022/01/17/oxfam-on-covid-inequality-tax-rich-to-pay-for-vaccines-protect-climate.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106817935-1609423998182-gettyimages-1230274603-AFP_8XN6K3.jpeg?v=1642391530",
+"publishedAt": "2022-01-17T06:29:55Z",
+"content": "The pandemic has made the rich richer while the income of the rest of the world about 99% of humanity dropped, according to a new Oxfam report titled \"Inequality Kills.\"\r\nThe wealth of the world's 10… [+2319 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ScienceAlert"
+},
+"author": "Michelle Starr",
+"title": "Earth's Insides Are Cooling Faster Than We Thought, And It Will Mess Things Up - ScienceAlert",
+"description": "Earth formed 4.5 billion years or so ago. Ever since then, it's been slowly cooling on the inside.",
+"url": "https://www.sciencealert.com/earth-s-insides-are-cooling-faster-than-we-thought-and-it-will-mess-things-up",
+"urlToImage": "https://www.sciencealert.com/images/2022-01/processed/earth-cross-section-illustration_1024.jpg",
+"publishedAt": "2022-01-17T05:59:42Z",
+"content": "Earth formed 4.5 billion years or so ago. Ever since then, it's been slowly cooling on the inside.\r\nWhile the surface and atmosphere temperatures fluctuate over the eons (and yes, those external temp… [+3476 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "INSIDER"
+},
+"author": "Matthew Loh",
+"title": "Novak Djokovic's family, Serbian leaders condemn 'scandalous' deportation - Insider",
+"description": "Serbia's Prime Minister, Ana Brnabić, called Australia's decision \"unbelievable,\" while President Aleksandar Vucic said the hearing was a \"farce.\"",
+"url": "https://www.insider.com/novak-djokovics-deportation-family-serbian-leaders-condemn-scandalous-2022-1",
+"urlToImage": "https://i.insider.com/61e4f81f7c6a2000184247b0?width=1200&format=jpeg",
+"publishedAt": "2022-01-17T05:44:29Z",
+"content": "On Sunday, the family of tennis star Novak Djokovic and Serbia's top leaders criticized the sports icon's deportation from Australia, saying the ruling was \"scandalous.\"\r\nThe day before, a three-judg… [+2408 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "WYFF4 Greenville"
+},
+"author": null,
+"title": "Snow, ice, freezing rain, sleet all felt across South Carolina Sunday - WYFF4 Greenville",
+"description": "A winter storm was felt across the Carolinas on Sunday and now the concern turns to roads, power outages.",
+"url": "https://www.wyff4.com/article/winter-storm-south-carolina-black-ice/38785202",
+"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/west-union-1642333498.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*",
+"publishedAt": "2022-01-17T05:22:00Z",
+"content": "GREENVILLE, S.C. —Sunday featured all sorts of winter weather as a winter storm moved through the region. \r\n(Watch Chris' latest forecast above) \r\nWhether you were in the mountains with primarily all… [+981 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Times"
+},
+"author": "Emmanuel Morgan",
+"title": "How Sunday's Games Affect the NFL Playoff Picture - The New York Times",
+"description": "Kansas City and Tampa Bay’s blowout victories, over Pittsburgh and Philadelphia, sandwiched the only upset of wild-card weekend: sixth-seeded San Francisco beating third-seeded Dallas.",
+"url": "https://www.nytimes.com/2022/01/16/sports/football/nfl-wild-card-score.html",
+"urlToImage": "https://static01.nyt.com/images/2022/01/16/sports/16nfl-h2w-mahomes/16nfl-h2w-mahomes-facebookJumbo.jpg",
+"publishedAt": "2022-01-17T05:00:00Z",
+"content": "The Buccaneers held Philadelphia scoreless until the fourth quarter, and self-inflicted mishaps errant throws by Jalen Hurts, dropped passes and a muffed punt by Jalen Reagor recovered by Tampa Bay d… [+1668 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NBCSports.com"
+},
+"author": null,
+"title": "Grading 49ers' offense, defense in playoff win over Cowboys - NBC Sports Bay Area",
+"description": "The 49ers survived and advanced and will face the Green Bay Packers in the NFC Divisional Playoff.",
+"url": "https://www.nbcsports.com/bayarea/49ers/49ers-report-card-grades-offense-defense-playoff-win-over-cowboys",
+"urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/49ers-celebrate-cowboys-USATSI.jpg",
+"publishedAt": "2022-01-17T04:59:21Z",
+"content": "ARLINGTON, Texas -- Toward the end, it was like a heavyweight fight.\r\nWith wobbly legs and punches that did not hit the mark, both teams staggered. Both teams could have easily hit the deck and not g… [+5931 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Deadline"
+},
+"author": "Alexandra Del Rosario",
+"title": "‘Yellowjackets’ Season Finale: [SPOILER]’s Cause Of Death Revealed; Creators Say To Expect “Darker,” “Weirder” Season 2 - Deadline",
+"description": "SPOILER ALERT: This post includes some major reveals for the Season 1 finale of Showtime’s Yellowjackets, “Sic Transit Gloria Mundi.” Just when it seems Yellowjackets couldn’t get any more sinister than “Doomcoming,” the Season 1 finale proves otherwise. Hung…",
+"url": "https://deadline.com/2022/01/yellowjackets-season-finale-recap-creators-season-2-1234907533/",
+"urlToImage": "https://deadline.com/wp-content/uploads/2022/01/Yellowjackets_110_0360_R.jpg?w=1024",
+"publishedAt": "2022-01-17T04:00:00Z",
+"content": "SPOILER ALERT: This post includes some major reveals for the Season 1 finale of Showtime’s Yellowjackets, “Sic Transit Gloria Mundi.”\r\nJust when it seems Yellowjackets couldn’t get any more sinister … [+13834 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Pittsburgh Post-Gazette"
+},
+"author": "Ray Fittipaldo",
+"title": "Oh Canada, the Steelers' offensive ineptitude knows no end - Pittsburgh Post-Gazette",
+"description": "For the seventh time in the past eight games, the Steelers offense failed to score a touchdown in the first half of a game.",
+"url": "https://www.post-gazette.com/sports/steelers/2022/01/16/pittsburgh-steelers-kansas-city-chiefs-nfl-playoffs-offense/stories/202201160211",
+"urlToImage": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20220116mfsteelerssports23-3-1642390909.jpg",
+"publishedAt": "2022-01-17T03:41:27Z",
+"content": "MENU"
+},
+{
+"source": {
+"id": null,
+"name": "New York Times"
+},
+"author": "Choe Sang-Hun",
+"title": "North Korea Launches 2 Short-Range Ballistic Missiles - The New York Times",
+"description": "The recent missile activity has raised tensions in the region at a sensitive time, and has prompted the United States to call for more sanctions on the North.",
+"url": "https://www.nytimes.com/2022/01/17/world/asia/north-korea-ballistic-missiles.html",
+"urlToImage": "https://static01.nyt.com/images/2022/01/17/multimedia/17nkorea-top/17nkorea-top-facebookJumbo.jpg",
+"publishedAt": "2022-01-17T03:41:16Z",
+"content": "North Korea resumed testing missiles in September, after a six-month hiatus. It has since conducted at least six missile tests, which involved a long-range strategic cruise missile, ballistic missile… [+1390 chars]"
+},
+{
+"source": {
+"id": "the-hill",
+"name": "The Hill"
+},
+"author": "Olafimihan Oshin",
+"title": "Netanyahu negotiating plea deal | TheHill - The Hill",
+"description": "Former Israel prime minister ...",
+"url": "https://thehill.com/policy/international/middle-east-north-africa/589978-netanyahu-negotiating-plea-deal",
+"urlToImage": "https://thehill.com/sites/default/files/netanyahu.jpg",
+"publishedAt": "2022-01-17T03:31:40Z",
+"content": "Former Israel prime minister Benjamin NetanyahuBenjamin (Bibi) NetanyahuMORE is negotiating a plea deal in his corruption case, which could include a provision banning him from politics, according to… [+1544 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sports Illustrated"
+},
+"author": "Conor Orr",
+"title": "Jerry Jones Has Decisions to Make About His Coaching Staff - Sports Illustrated",
+"description": "Dan Quinn and Kellen Moore are receiving head coaching interest, which could accelerate the timeline on which Mike McCarthy is judged.",
+"url": "https://www.si.com/nfl/2022/01/17/cowboys-coaches-mike-mccarthy-dan-quinn-kellen-moore",
+"urlToImage": "https://www.si.com/.image/t_share/MTg2NzUwNTUzOTg3MDMyNzc1/mike-mccarthy.jpg",
+"publishedAt": "2022-01-17T02:52:25Z",
+"content": "After Sunday’s disappointing playoff loss to the 49ers, here’s an interesting question that Jerry Jones is likely asking himself internally and fielding from those in his inner circle: What are we go… [+5343 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Winter storm slams U.S. East Coast, Canada, thousands of flights canceled - Reuters",
+"description": "A major winter storm slammed much of the eastern United States with snow, ice and high winds on Sunday, causing widespread travel disruptions and power outages on a holiday weekend.",
+"url": "https://www.reuters.com/business/aerospace-defense/airlines-cancel-over-2700-us-flights-winter-storm-hits-us-east-coast-2022-01-16/",
+"urlToImage": "https://www.reuters.com/resizer/gW11oPwPUb9a-lMUfMpl1JKKv7g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TX2KL7X5I5IB7BHGXVF2UAJPME.jpg",
+"publishedAt": "2022-01-17T02:52:00Z",
+"content": "WASHINGTON, Jan 16 (Reuters) - A major winter storm slammed much of the eastern United States with snow, ice and high winds on Sunday, causing widespread travel disruptions and power outages on a hol… [+2912 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "WGME"
+},
+"author": "Matt Hoenig",
+"title": "TIMELINE: Here's when Mainers can expect heavy snow, strong winds on Monday - WGME",
+"description": "PORTLAND (WGME) -- The forecast remains on track for a messy winter storm on Monday. Heavy snow, strong winds, and some minor coastal flooding all remain on the table. Here's the latest: MONDAY MORNING: Snow breaks out between 4 AM and 6 AM across our area. P…",
+"url": "https://wgme.com/news/local/timeline-heres-when-mainers-can-expect-heavy-snow-strong-winds-on-monday",
+"urlToImage": "https://wgme.com/resources/media/5dee723d-7a83-44d0-b292-8e0d05b254e6-large16x9_SnowMap1.png?1642383013116",
+"publishedAt": "2022-01-17T01:52:16Z",
+"content": null
+}
+]
+}

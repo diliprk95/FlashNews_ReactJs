@@ -1,0 +1,42 @@
+.toolbadge .tooltiptext {
+    visibility: hidden;
+    width: max-content;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 5px 5px 5px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 85%;
+    margin-left: -60px;
+    font-size: 12px;
+}
+
+.toolbe .tooltiptext{
+     visibility: hidden;
+    /*width: max-content; */
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 5px 5px 5px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    left: 10%;
+    top: 45%;
+    font-size: 12px;
+}
+
+.toolbadge:hover .tooltiptext{
+    visibility: visible;
+}
+
+h5.card-title.toolbe:hover .tooltiptext{
+    visibility: visible;
+}
