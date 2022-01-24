@@ -1,15 +1,11 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import React from 'react'
 import { Link } from 'react-router-dom'
 
-export class Navbar extends Component {
-    static propTypes = {
-    }
-    render() {
+const Navbar = () => {
         return (
             <div>
                 {/* <nav className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}> */}
-                <nav className={`navbar navbar-expand-lg navbar-dark bg-dark`}>
+                <nav className={`navbar fixed-top navbar-expand-lg navbar-dark bg-dark`}>
                   <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
                       <h5>Flash News</h5>
@@ -30,7 +26,6 @@ export class Navbar extends Component {
                       </ul>
                      
                       <h5 className="toggleLable">Enable Dark Mode</h5><div className="toggleMode">
-                        {/* <input type="checkbox" onClick={props.toggleMode} className="checkbox" id="chk" /> */}
                         <label className="label" htmlFor="chk">
                           <i className="fas fa-moon"></i>
                           <i className="fas fa-sun"></i>
@@ -42,7 +37,6 @@ export class Navbar extends Component {
                 </nav>
             </div>
         )
-    }
 }
 
 export default Navbar

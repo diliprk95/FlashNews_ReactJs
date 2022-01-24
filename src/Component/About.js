@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-export default function About(props) {
+const About = (props) => {
     return (
         <>
             <div  style={{color: props.mode==='dark'?'white':'black'}}>
@@ -14,3 +14,5 @@ export default function About(props) {
         </>
     )
 }
+
+export default About;
